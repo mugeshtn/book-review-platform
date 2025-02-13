@@ -2,7 +2,6 @@
 
 This is a full-stack web application for **Novel Nook**, a platform where users can read and write book reviews. It consists of a **frontend** and **backend**.
 
-
 ## 🚀 Technologies Used
 - **Backend**: Node.js, Express, MongoDB
 - **Frontend**: React, TypeScript, Tailwind CSS
@@ -46,7 +45,19 @@ Make sure you have the following installed:
     npm run dev
     ```
 
-
 ---
 
 Developed by Mugesh TN.
+
+---
+
+## ⚠️ Important Notice: Work in Progress
+
+Please note that this project is still under development and some features are yet to be fully implemented. While most core functionality are completed, there are a few improvements and additional features that are still being worked on.
+
+### In Progress:
+- Admin side frontend pages
+
+I will be completing these updates shortly, and the project will be fully finalized soon.
+
+Thank you for your understanding!
