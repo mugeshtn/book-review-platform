@@ -24,6 +24,7 @@ frontend/
 │   ├── components/     # Reusable UI components
 │   ├── pages/          # Page components
 │   ├── context/        # Auth & global state management
+├   ├── context/  
 │   ├── utils/          # Helper functions
 │   ├── App.tsx         # Main app component
 │   ├── main.tsx        # Entry point
@@ -37,7 +38,7 @@ frontend/
 1. **Clone the repository**
    ```sh
    git clone https://github.com/yourusername/book-review-platform.git
-   cd book-review-platform/frontend
+   cd frontend
    ```
 2. **Install dependencies**
    ```sh
