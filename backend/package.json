@@ -4,7 +4,7 @@
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "nodemon npx kill-port 8001 && server.js"
+    "start": "npx kill-port 8001 && nodemon server.js"
   },
   "keywords": [],
   "author": "",
